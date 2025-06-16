@@ -856,7 +856,7 @@ footer {
 }
 .business-img {
     width: 100%;
-    max-width: 60%;
+    max-width: 100%;
     height: auto;
     display: block;
     margin: 0 auto 100px auto;
